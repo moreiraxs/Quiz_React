@@ -12,7 +12,7 @@ const Welcome = () => {
   return(
     <div id="welcome">
       <h2>Seja bem-vindo</h2>
-      <p>Clique no botao abixo para começar</p>
+      <p>Clique no botao abaixo para começar</p>
       <button onClick={() => dispatch({type: "CHANGE_STATE"})}>iniciar</button>
       <img src={Quiz} alt="imagem basica de enfeite" />
     </div>
