@@ -22,6 +22,6 @@ $ npm install
 
 # Rode o projeto
 
-$ npm start
+$ npm run
 
 Projeto feito com ajuda do canal Hora de codar link(https://www.youtube.com/watch?v=HlkbeikH8cs&t=823s&ab_channel=MatheusBattisti-HoradeCodar)
