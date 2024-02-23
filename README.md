@@ -7,7 +7,7 @@ Esse projeto consiste em um Quiz de perguntas e respostas para testar seus conhe
 <img src="/src/img/imgreadme (2).png">
 
 # Iniciar
-Para iniciar o projeto é necessario que você clone o projeto e instale as dependencias necessarias utilizando o ´$ npm install´ no seu cmd, após isso rode utilizando o ´$ npm run´ em seu cmd.
+Para iniciar o projeto é necessario que você clone o projeto e instale as dependencias necessarias utilizando o   `$ npm install`  no seu cmd, após isso rode utilizando o `$ npm run` em seu cmd.
 # Clone o projeto
 
 $ git clone
